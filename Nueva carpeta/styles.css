@@ -423,15 +423,26 @@ nav ul li:hover{
 #sub{
     position: absolute;
     top: 950px;
-    left: 40% ;
+    left: 41% ;
     text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-shadow: 5px 4px 2px rgb(104, 101, 101);
+    text-decoration: none;
 }
 [name="sub2"]{
     position: absolute;
     top: 1140px;
-    left: 44% ;
+    left: 46% ;
     text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-shadow: 5px 4px 2px rgb(104, 101, 101);
+    text-decoration: none;
 }
+
 [name="par2"]{
     position: absolute;
     top: 60%x;
