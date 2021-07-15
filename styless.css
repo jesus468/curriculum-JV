@@ -85,6 +85,7 @@ nav ul li{
     z-index: 1 ;
     margin-right: 4px;
     transition: all 300ms;
+    max-width: 100%;
 }
 
 nav ul li:hover{
@@ -148,7 +149,7 @@ section{
     text-align: center;
     max-width: 90%;
     margin: 0px auto;
-    margin-top: 20px ;
+    margin-top: 0px ;
     background-color: white;
     border: 1px solid rgba(255, 0, 0, 0.541);
     z-index: 1 ;
